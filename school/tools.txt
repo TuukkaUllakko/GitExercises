@@ -1,3 +1,1 @@
-This is a test
-Do you see this?
-Is this thing on?
+Greetings from GitHub
